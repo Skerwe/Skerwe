@@ -6,9 +6,10 @@ In the past year I have been learning a lot. Software development, web applicati
 
 My main focus is building :video_game: [Quest for Game Dev][q4gd], where I create guides on how to develop different games types.
 
-:page_facing_up: [Resume][resume] | :package: [NPM][npm] | :earth_africa: [Twitter][twitter]
+:page_facing_up: [Resume][resume] | :package: [NPM][npm] | :eagle: [Twitter][twitter] | :earth_africa: [Website][skerwe]
 
 [q4gd]: https://quintinhenn.gitlab.io/quest-for-game-dev/
 [resume]: https://registry.jsonresume.org/skerwe
 [npm]: https://www.npmjs.com/~skerwe
 [twitter]: https://twitter.com/QuintinHenn
+[skerwe]: http://skerwe.web.za/
