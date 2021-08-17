@@ -4,7 +4,7 @@ I like to give back to the development community by creating free and open sourc
 
 In the past year I have been learning a lot. Software development, web application development, game development, analog game design, pixel art, 3D modeling, drawing and painting.
 
-My main focus is building :video_game: [Quest for Game Dev][q4gd], where I create guides on how to develop different games types.
+My main focus is building :video_game: [Quest for Game Dev][q4gd], where I create guides on developing different game types.
 
 :page_facing_up: [Resume][resume] | :package: [NPM][npm] | :eagle: [Twitter][twitter] | :earth_africa: [Website][skerwe]
 
