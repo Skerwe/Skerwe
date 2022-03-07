@@ -8,6 +8,8 @@ My main focus is building :video_game: [Quest for Game Dev][q4gd], where I creat
 
 <a href="https://app.daily.dev/QuintinHenn"><img src="https://github.com/Skerwe/Skerwe/blob/master/devcard.svg" width="400" alt="Quintin Henn's Dev Card"/></a>
 
+![GitHub Wrapped image for Quintin](https://github.com/Skerwe/Skerwe/blob/master/wrapped_Skerwe.png)
+
 :page_facing_up: [Resume][resume] | :package: [NPM][npm] | :eagle: [Twitter][twitter] | :earth_africa: [Website][skerwe]
 
 [q4gd]: https://quintinhenn.gitlab.io/quest-for-game-dev/
