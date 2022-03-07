@@ -6,9 +6,7 @@ In the past year I have been learning a lot. Software development, web applicati
 
 My main focus is building :video_game: [Quest for Game Dev][q4gd], where I create guides on developing different game types.
 
-<a href="https://app.daily.dev/QuintinHenn"><img src="https://github.com/Skerwe/Skerwe/blob/master/devcard.svg" width="400" alt="Quintin Henn's Dev Card"/></a>
-
-![GitHub Wrapped image for Quintin](https://github.com/Skerwe/Skerwe/blob/master/wrapped_Skerwe.png)
+![GitHub Wrapped image for Quintin](https://github.com/Skerwe/Skerwe/blob/master/wrapped_Skerwe.png) <a href="https://app.daily.dev/QuintinHenn"><img src="https://github.com/Skerwe/Skerwe/blob/master/devcard.svg" width="400" alt="Quintin Henn's Dev Card"/></a>
 
 :page_facing_up: [Resume][resume] | :package: [NPM][npm] | :eagle: [Twitter][twitter] | :earth_africa: [Website][skerwe]
 
