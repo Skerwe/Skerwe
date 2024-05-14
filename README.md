@@ -2,7 +2,7 @@
 
 I like to give back to the development community by creating free and open source content.
 
-Being a creative person who doesn't fit in any box, my encounters in life lead to many different topics that now influance my interest and hobbies.  
+Being a creative person who doesn't fit in any box, my encounters in life lead to many different topics that now influance my interest and hobbies.
 From boardgames, TTRPG's and tabletop wargaming to painting miniatures, drawing landscapes, stop motion animation and game development.
 
 My main focus is building :video_game: [Quest for Game Dev](https://quintinhenn.gitlab.io/quest-for-game-dev/), where I create guides on developing different game types.
