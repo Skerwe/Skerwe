@@ -23,4 +23,4 @@ My main focus is building :video_game: [Quest for Game Dev](https://quintinhenn.
 
 ---
 
-[LinkedIn](https://linkedin.com/in/quintinhenn) | :page_facing_up: [Resume](https://registry.jsonresume.org/skerwe) | :earth_africa: [Website](https://skerwe.surge.sh/) | :eagle: [Twitter](https://twitter.com/QuintinHenn) | :package: [NPM](https://www.npmjs.com/~skerwe) | :office [Indie Sagtewerke Game Development Studio](https://indiesagtewerke.dev) | :beer:/:coffee: [Buy Me a Coffee](https://www.buymeacoffee.com/skerwe)
+[LinkedIn](https://linkedin.com/in/quintinhenn) | :page_facing_up: [Resume](https://registry.jsonresume.org/skerwe) | :earth_africa: [Website](https://skerwe.surge.sh/) | :eagle: [Twitter](https://twitter.com/QuintinHenn) | :package: [NPM](https://www.npmjs.com/~skerwe) | :office: [Indie Sagtewerke Game Development Studio](https://indiesagtewerke.dev) | :coffee: [Buy Me a Coffee](https://www.buymeacoffee.com/skerwe)
